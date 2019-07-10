@@ -61,5 +61,4 @@ Service and leadership
 Contact Information
 ======
 
-[VCF](https://github.com/kbharbin/kbharbin.github.io/blob/master/_portfolio/Kristopher%20Harbin.vcf)
-
+[VCF](http://academicpages.github.io/files/Kristopher%20Harbin.vcf)
