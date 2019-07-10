@@ -57,3 +57,9 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+Contact Information
+======
+
+[VCF](https://github.com/kbharbin/kbharbin.github.io/blob/master/_portfolio/Kristopher%20Harbin.vcf)
+
